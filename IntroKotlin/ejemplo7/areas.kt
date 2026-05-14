@@ -10,6 +10,7 @@ fun areaRectangulo(base: Double, altura: Double): Double {
 
 fun areaTriangulo(base: Double, altura: Double): Double {
     return (base * altura) / 2
+
 }
 
 fun areaCirculo(radio: Double): Double {
